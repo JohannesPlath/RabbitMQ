@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="044839d3-d400-4cc4-9bc0-60a88b43a9f1" name="Changes" comment="" />
+    <list default="true" id="044839d3-d400-4cc4-9bc0-60a88b43a9f1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2IY9FkgRALLD7ujLFCHZtO8RZnx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,7 +51,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Buero/uni/HTW/HTW_6_Sem/KBE/uebung/RabbitMQ",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "7486568daf9af826973a0f1c2021bbc5"
   }
 }]]></component>
   <component name="RunManager">
@@ -67,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670347548599</updated>
       <workItem from="1670347550714" duration="3788000" />
+      <workItem from="1670352362864" duration="1363000" />
     </task>
     <servers />
   </component>
